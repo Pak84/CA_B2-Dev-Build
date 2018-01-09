@@ -1,5 +1,7 @@
 # CA_B2-Dev-Build
 
+drop this folder into your Cormorant Aeronology folder. It may want to replace some files from the LRBs but these are small cfg changes and texture updates which shouldn't have any effect on the current part balance.
+
 This is a Development Build of current progress on Block II parts.
 This pack may include;
 
