@@ -14,6 +14,6 @@ Current State;
 
 - Block II orbiter is mostly functional for launch, orbit, and landing
 
-- B2 Cockpit has no IVA or placeholder so no Kerbal portraits will display. Kerbals can still EVA from hatch menues
+- B2 Cockpit has blocked out IVA with no functionality yet
 
 - Textures have some errors and unfinished areas
