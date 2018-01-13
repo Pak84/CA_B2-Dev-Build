@@ -18,7 +18,7 @@ This pack may include;
 
 Current State;
 
-- Block II orbiter is functional for launch, orbit operations, and landing. This is a pretty bare bones version without a lot of the little quality of life stuff that I'll keep adding as I go.
+- Block II orbiter is functional for launch, orbit operations, and landing. This is a pretty bare bones version without a lot of the little quality of life stuff that I'll keep adding
 
 - B2 Cockpit has blocked out IVA with no functionality yet
 
@@ -26,4 +26,4 @@ Current State;
 
 - Descriptions, tags, and localizations in progress
 
-- New Block II parts like the airlock, advanced OMS pods, etc are in various stages of completion and will be added here as I go
+- New Block II parts like the airlock, advanced OMS pods, etc are in various stages of completion and will be added here
